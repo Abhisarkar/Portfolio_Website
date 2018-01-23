@@ -1,0 +1,231 @@
+/* Main isuue resolved */
+/* Loading css after bootstrap helped styling the navbar at the top */
+
+*{
+		margin : 0px;
+}
+
+
+html,body{
+	height:100%;
+}
+
+
+.head_div{
+		
+	margin-top : -20pz;
+	position : relative;
+	width : 100%;
+
+}
+
+.back{
+	
+	height : 640px;
+	width : 100%;
+	
+	
+}
+
+/* whitespace comes for static */
+.main {/* the header */
+	
+	background-color : rgba(0,0,0,0.4);
+	height : 2px;
+	
+}
+
+
+.list{/* making the list inside div helped moving the list rightwards */
+	
+	margin-right : -200px;
+	
+}
+
+
+
+.list ul li{
+		font-size : 20px;
+		font-family: 'Bree Serif', serif;
+}
+.list ul li a{/* link color changed after adding important */
+	color : #c2cecd !important;
+}
+
+
+.brand{/* making the brand inside div helped moving the list lefttwards */
+	
+	font-size : 20px;
+	margin-left : -200px;
+	color : red !important;
+	
+}
+
+
+.navbar-brand{
+
+	color : rgba(196, 209, 208,0.9) !important;
+	
+	font-size : 20px;
+	font-family: 'Zilla Slab Highlight', cursive;
+
+}
+
+
+.header{
+	color :white;
+	position : absolute;
+	top : 230px;
+	margin-left : 380px;
+	font-family: 'Berkshire Swash', cursive;
+	font-size : 100px;
+	font-weight : 1px;
+}
+
+
+.sect{
+	height : 90%;
+	background-attachment : fixed;/* fixes the background image */
+}
+
+.One{
+	height : 100%;
+	background-image : url('http://res.cloudinary.com/djbzp5w0y/image/upload/v1501501869/lap3_cyipsx.jpg');
+	background-size : cover;
+}
+
+.Two{
+	background-image : url('http://res.cloudinary.com/djbzp5w0y/image/upload/v1501501869/cam3_cjojjc.jpg');
+	background-size : cover;
+}
+
+.Three{
+	background-image : url('http://res.cloudinary.com/djbzp5w0y/image/upload/v1501501879/playstation_bmbsd7.jpg');
+	background-size : cover;
+}
+
+.subsect{
+	
+	height : 70%;
+	background-color : #e8eaed;
+	font-size : 40px;
+}
+
+.name1{
+	font-family: 'EB Garamond', serif;
+	font-size : 60px;
+	padding : 60px;
+	
+}
+.intro{
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size : 30px;
+}
+
+.about1{
+	font-family: 'EB Garamond', serif;
+	font-size : 60px;
+}
+
+.intro2 {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size : 30px;
+}
+.hobby{
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size : 30px;
+	padding : 60px;
+}
+
+.project_class{
+  
+	        height : 80%;
+}
+
+.project1{
+	
+	font-family: 'EB Garamond', serif;
+	font-size : 60px;
+	
+}
+
+.project12{
+	
+		font-family: 'Sorts Mill Goudy', serif;
+		font-size : 30px;
+}
+
+.thumb1{
+	
+	margin-left : 90px;
+  height : 40%;
+}
+.thumb2{
+	
+	margin-left : 450px;
+}
+
+.tr2{
+	border : 2px solid #a6aab2;
+	border-radius : 15px;
+}
+
+.tr{
+	border : 2px solid #a6aab2;
+	border-radius : 15px;
+	height : 260px;
+}
+
+.todo{
+		float : right;
+}
+
+.contact{
+	
+	font-family: 'EB Garamond', serif;
+	font-size : 60px;
+	padding : 40px;
+	
+}
+
+.fb{
+	color : #3b5998;
+	margin-right : 70px;	
+}
+
+.tw{
+		color : #00aced;
+		margin-right : 70px;	
+
+}
+
+.quo{
+	color : #b71709;
+}
+
+.fcc{
+	color : #346637;	
+	margin-left : 70px;	
+
+}
+
+.footer{
+	font-size : 20px;
+	margin-top : 80px;
+	
+}
+
+.font{
+		margin-left : 8px;
+font-family: 'Sofia', cursive;
+
+}
+
+
+
+
+
+
+
+
+
